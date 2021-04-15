@@ -1,0 +1,289 @@
+.form-control-borderless {
+    border: none;
+}
+
+.form-control-borderless:hover, .form-control-borderless:active, .form-control-borderless:focus {
+    border: none;
+    outline: none;
+    box-shadow: none;
+}
+.container{
+    margin-top:-78px;
+}
+
+.navbar-item1{
+    margin-left:1350px ;
+    margin-top:-100px;
+    position: fixed;
+}
+
+.bg-light {
+    background-color: maroon!important;
+}
+
+.navbar22 {
+    margin: left 0;
+    }
+    
+  /* Links inside the navbar */
+    .navbar a {
+    float: left;
+    font-size: 16px;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    }
+    
+  /* The dropdown container */
+    .dropdown {
+    float: left;
+    overflow: hidden;
+    }
+
+    .person-icon{
+        height:20px;
+        max-width:20px;
+        position:absolute;
+        top:50px;
+        margin-left:1200px;
+        margin-bottom:100px;
+    }
+.love-icon{
+    height:20px;
+    max-width:20px;
+    position:absolute;
+    top:50px;
+    margin-left:1350px;
+    margin-bottom:100px;
+}
+
+.cart-icon{
+    height:20px;
+    max-width:20px;
+    position:absolute;
+    top:50px;
+    margin-left:1450px;
+    margin-bottom:100px;
+}
+
+.bottomnav {
+    background-color: white;
+    color:rgb(5, 2, 2);
+    font-weight: bold;
+    overflow: hidden;
+    }
+    
+  /* Style the links inside the navigation bar */
+    .bottomnav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    border-bottom: 3px solid transparent;
+    }
+
+    .bottomnav a:hover {
+    border-bottom: 3px solid red;
+    }
+    
+    .bottonnav a.active {
+    border-bottom: 3px solid red;
+    }
+
+
+    .cards__item__pic-wrap {
+        position: relative;
+        width: 100%;
+        padding-top: 67%;
+        overflow: hidden;
+    }
+        
+    
+
+    .bottomnav2 {
+        background-color: black;
+        color:white;
+        font-weight: bold;
+        overflow: hidden;
+        }
+        
+      /* Style the links inside the navigation bar */
+        .bottomnav2 a {
+        float: left;
+        display: block;
+        color: #f2f2f2;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+        font-size: 17px;
+        border-bottom: 3px solid transparent;
+        }
+    
+        .bottomnav2 a:hover {
+        border-bottom: 40px solid red;
+        }
+        
+        .bottonnav2 a.active {
+        border-bottom: 40px solid red;
+        }
+
+        #ads {
+            margin: 30px 0 30px 0;
+        
+        }
+        
+        #ads .card-notify-badge {
+                position: absolute;
+                left: -10px;
+                top: -20px;
+                background: #f2d900;
+                text-align: center;
+                border-radius: 30px 30px 30px 30px; 
+                color: #000;
+                padding: 5px 10px;
+                font-size: 14px;
+        
+            }
+        
+        #ads .card-notify-year {
+                position: absolute;
+                right: -10px;
+                top: -20px;
+                background: #ff4444;
+                border-radius: 50%;
+                text-align: center;
+                color: #fff;      
+                font-size: 14px;      
+                width: 50px;
+                height: 50px;    
+                padding: 15px 0 0 0;
+        }
+        
+        
+        #ads .card-detail-badge {      
+                background: #f2d900;
+                text-align: center;
+                border-radius: 30px 30px 30px 30px;
+                color: #000;
+                padding: 5px 10px;
+                font-size: 14px;        
+            }
+        
+
+        
+        #ads .card:hover {
+                    background: #fff;
+                    box-shadow: 12px 15px 20px 0px rgba(46,61,73,0.15);
+                    border-radius: 4px;
+                    transition: all 0.3s ease;
+                }
+        
+        #ads .card-image-overlay {
+                font-size: 20px;
+                
+            }
+        
+        
+        #ads .card-image-overlay span {
+                    display: inline-block;              
+                }
+        
+        
+        #ads .ad-btn {
+                text-transform: uppercase;
+                width: 150px;
+                height: 40px;
+                border-radius: 80px;
+                font-size: 16px;
+                line-height: 35px;
+                text-align: center;
+                border: 3px solid #e6de08;
+                display: block;
+                text-decoration: none;
+                margin: 20px auto 1px auto;
+                color: #000;
+                overflow: hidden;        
+                position: relative;
+                background-color: #e6de08;
+            }
+        
+        #ads .ad-btn:hover {
+                    background-color: #e6de08;
+                    color: #1e1717;
+                    border: 2px solid #e6de08;
+                    background: transparent;
+                    transition: all 0.3s ease;
+                    box-shadow: 12px 15px 20px 0px rgba(46,61,73,0.15);
+                }
+        
+        #ads .ad-title h5 {
+                text-transform: uppercase;
+                font-size: 18px;
+            }
+
+
+            .col-md-2{
+                display: inline-block;
+                margin-left:-4px;
+            }
+            .col-md-2 img{
+                width:100%;
+                height:auto;
+            }
+            body .carousel-indicators li{
+                background-color:red;
+            }
+            body .carousel-control-prev-icon,
+            body .carousel-control-next-icon{
+                background-color:red;
+            }
+            body .no-padding{
+                padding-left: 0;
+                padding-right: 0;
+            }
+
+            .bottomnav3 {
+                background-color: white;
+                color:black;
+                font-weight: bold;
+                overflow: hidden;
+                }
+        
+                .bottomnav3 a {
+                    float: left;
+                    display: block;
+                    color: black;
+                    text-align: center;
+                    padding: 14px 16px;
+                    text-decoration: none;
+                    font-size: 17px;
+                    border-bottom: 3px solid transparent;
+                    }
+
+                    
+
+/* narrower card deck */
+.card-deck {
+    margin-right: -5px;
+    margin-left: -5px;
+}
+.card-deck .card {
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+
+/* faux card deck with grid  */
+.row {
+    margin-right: -5px;
+    margin-left: -5px;
+}
+
+.col-md-3 {
+    padding-right: 5px;
+    padding-left: 5px;
+}
